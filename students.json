@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "name": "Rahul",
+        "age": "22",
+        "department": "ECE"
+    },
+    {
+        "id": "02",
+        "name": "Ram",
+        "age": "22",
+        "department": "ECE"
+    },
+
+
+
+    {
+        "id": "03",
+        "name": "Raghu",
+        "age": "20",
+        "department": "ECE"
+    },
+
+
+
+    {
+        "id": "04",
+        "name": "Vidya",
+        "age": "22",
+        "department": "ECE"
+    },
+
+
+
+    {
+        "id": "05",
+        "name": "Bhargavi",
+        "age": "21",
+        "department": "ECE"
+    },
+
+
+
+    {
+        "id": "06",
+        "name": "Prakash",
+        "age": "22",
+        "department": "EEE"
+    }
+]
